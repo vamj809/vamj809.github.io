@@ -43,9 +43,13 @@
     
 ---
 
-# Parte #2 - Evaluación de Conocimiento, Equipo Comercial Macrotech
+# Parte #2 - Evaluación Baxter para Equipo Comercial Macrotech
 
 ![Logo Baxter](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Baxter.svg/2560px-Baxter.svg.png)
+
+* Cada persona solo tendrá 1 oportunidad para realizar la evaluación.
+* Se está considerando 80% como resultado aprobatorio.
+* Cada persona recibirá su calificación al final de la evaluación, se sugiere solicitar que impriman la pantalla (Ctrl + P) y compartan el resultado.
 
 **CRRT:** <a href="https://surveys.baxter.com/s3/Macrotech-Evaluaci-n-Terapias-Agudas-1122"> Haz clic aquí </a>
 
