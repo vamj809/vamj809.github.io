@@ -1,5 +1,7 @@
 # Evaluación de Conocimiento, Equipo Comercial Macrotech
 
+![Sample](./screen_capture_240324.png)
+
 ![Logo Macrotech](https://macrotech.com.do/wp-content/uploads/2021/08/logo_macrotech_banner_small.png)
 
 **CRRT:** <a href="https://forms.office.com/r/hzKZTmfEyg"> Haz clic aquí </a>
